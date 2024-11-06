@@ -3,7 +3,7 @@
 
 attendance = int(input("Enter you Attendance percentage: "))
 
-if(attendance>=75):
+if(attendance>70):
     print("Allowed")
 else:
     print("Debarred")

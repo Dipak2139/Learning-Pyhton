@@ -3,6 +3,6 @@
 
 user_input = input("Enter a String: ")
 words = user_input.split()
-print(words)
+print("Before sorting the words are: ",words)
 sorted_words = sorted(words)
-print(sorted_words)
+print("After sorting the words are: ",sorted_words)

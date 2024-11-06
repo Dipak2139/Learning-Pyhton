@@ -14,4 +14,4 @@ def longest_word(sentence):
 
 input_string = input("Enter a Sentence: ")
 result = longest_word(input_string)
-print(result)
+print("The longest word is: ",result)

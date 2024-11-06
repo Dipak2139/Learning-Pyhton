@@ -4,4 +4,4 @@
 input_string = "Hello World"
 print("Original String: ",input_string)
 result = input_string.replace("World", "Everyone")
-print("After replacing the string "+input_string+" is: ",result)
+print("After replacing the string "+input_string+" we get: ",result)
